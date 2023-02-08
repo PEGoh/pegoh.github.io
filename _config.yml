@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Ping Goh"
-resume_title:                   "Commonwealth-registered marriage celebrant"
+resume_title:                   "Experienced, professional, warm, friendly, civil celebrant."
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "email here"
@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hello, my name is Ping and I am a certified marriage celebrant based in Melbourne. I have a warm and friendly approach, and I am dedicated to helping couples create the perfect ceremony for their special day. Whether you are after a traditional ceremony or something more unique, I am here to work with you and make your day one to remember.</p>"
+resume_header_intro: "<p>Hello, my name is Ping and I am a certified Commonwealth-registered marriage celebrant based in Melbourne. I have a warm and friendly approach, and I am dedicated to helping couples create the perfect ceremony for their special day. Whether you are after a traditional ceremony or something more unique, I am here to work with you and make your day one to remember. I work with you to create your ceremony that suits you as personal as it can be. It can be a simple ceremony or more comprehensive.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
